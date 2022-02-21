@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T20:05:50.515Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="4SyQh6vLaxR6f4LCF2GB" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T20:08:08.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="if4L4Ekfs6nhCwpxeV7N" version="16.6.1" type="github">
   <diagram id="AzK2zOcHoBmcdGs5wbvp" name="use cases diagram">
     <mxGraphModel dx="1412" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,10 +42,10 @@
         <mxCell id="UuEV44z2zga0xMd8Tojf-22" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=20;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="1210" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="UuEV44z2zga0xMd8Tojf-23" value="&lt;font style=&quot;font-size: 18px&quot;&gt;UC_5&lt;br&gt;View Product Popularity&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="UuEV44z2zga0xMd8Tojf-23" value="&lt;font style=&quot;font-size: 18px&quot;&gt;UC_4&lt;br&gt;View Product Popularity&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="575" y="1350" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UuEV44z2zga0xMd8Tojf-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;UC_6&lt;br&gt;View Order Breakdown&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="UuEV44z2zga0xMd8Tojf-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;UC_5&lt;br&gt;View Order Breakdown&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="580" y="1520" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
